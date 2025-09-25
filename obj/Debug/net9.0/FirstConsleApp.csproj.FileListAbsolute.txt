@@ -1,0 +1,14 @@
+D:\Tutorials\Practices\Dotnet\FirstConsleApp\bin\Debug\net9.0\FirstConsleApp.exe
+D:\Tutorials\Practices\Dotnet\FirstConsleApp\bin\Debug\net9.0\FirstConsleApp.deps.json
+D:\Tutorials\Practices\Dotnet\FirstConsleApp\bin\Debug\net9.0\FirstConsleApp.runtimeconfig.json
+D:\Tutorials\Practices\Dotnet\FirstConsleApp\bin\Debug\net9.0\FirstConsleApp.dll
+D:\Tutorials\Practices\Dotnet\FirstConsleApp\bin\Debug\net9.0\FirstConsleApp.pdb
+D:\Tutorials\Practices\Dotnet\FirstConsleApp\obj\Debug\net9.0\FirstConsleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorials\Practices\Dotnet\FirstConsleApp\obj\Debug\net9.0\FirstConsleApp.AssemblyInfoInputs.cache
+D:\Tutorials\Practices\Dotnet\FirstConsleApp\obj\Debug\net9.0\FirstConsleApp.AssemblyInfo.cs
+D:\Tutorials\Practices\Dotnet\FirstConsleApp\obj\Debug\net9.0\FirstConsleApp.csproj.CoreCompileInputs.cache
+D:\Tutorials\Practices\Dotnet\FirstConsleApp\obj\Debug\net9.0\FirstConsleApp.dll
+D:\Tutorials\Practices\Dotnet\FirstConsleApp\obj\Debug\net9.0\refint\FirstConsleApp.dll
+D:\Tutorials\Practices\Dotnet\FirstConsleApp\obj\Debug\net9.0\FirstConsleApp.pdb
+D:\Tutorials\Practices\Dotnet\FirstConsleApp\obj\Debug\net9.0\FirstConsleApp.genruntimeconfig.cache
+D:\Tutorials\Practices\Dotnet\FirstConsleApp\obj\Debug\net9.0\ref\FirstConsleApp.dll
