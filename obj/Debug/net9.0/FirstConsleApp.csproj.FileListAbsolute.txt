@@ -27,3 +27,4 @@ C:\Users\User\Desktop\ASP\ConsoleApp\obj\Debug\net9.0\refint\FirstConsleApp.dll
 C:\Users\User\Desktop\ASP\ConsoleApp\obj\Debug\net9.0\FirstConsleApp.pdb
 C:\Users\User\Desktop\ASP\ConsoleApp\obj\Debug\net9.0\FirstConsleApp.genruntimeconfig.cache
 C:\Users\User\Desktop\ASP\ConsoleApp\obj\Debug\net9.0\ref\FirstConsleApp.dll
+D:\Tutorials\Practices\Dotnet\FirstConsleApp\obj\Debug\net9.0\FirstConsleApp.sourcelink.json
