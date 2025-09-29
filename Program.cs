@@ -4,7 +4,7 @@ class Test()
 {
     public static void Main(string[] argd)
     {
-        Console.WriteLine("Please write Student Name :");
+        //Console.WriteLine("Please write Student Name :");
 
         // string? studentName;
         // int studentAge;
@@ -28,10 +28,38 @@ class Test()
         // Console.WriteLine("Student GPA:" + studentGpa);
         // Console.WriteLine("isRegistert:" + isRegistered);
 
-        int result = 25 + 65;
-        Console.WriteLine(result);
+        // int result = 25 + 65;
+        // Console.WriteLine(result);
 
-        Console.WriteLine(8 < 9 && 9 < 10);
+        // Console.WriteLine(8 < 9 && 9 < 10);
+
+        // int number = 30;
+        // if (number > 0)
+        // {
+        //     Console.WriteLine("Number is Posative");
+        // }
+        // else if (number < 0)
+        // {
+        //     Console.WriteLine("Number is Negative");
+        // }
+        // else if (number == 0)
+        // {
+        //     Console.WriteLine("Number is Zero");
+        // }
+
+        // for (int i = 1; i <= 5; i++)
+        // {
+        //     Console.WriteLine($"{i}");
+        // }
+        // for (int i = 1; i <= 100; i++)
+        // {
+        //     Console.Write($"{i}, ");
+        // }
+
+        for (int i = 100; i >= 1; i--)
+        {
+            Console.Write($"{i}, ");
+        }
 
     }
 }
