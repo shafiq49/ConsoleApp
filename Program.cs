@@ -4,7 +4,7 @@ class Test()
 {
     public static void Main(string[] argd)
     {
-        Console.WriteLine("Please write Student Name :");
+        // Console.WriteLine("Please write Student Name :");
 
         // string? studentName;
         // int studentAge;
@@ -13,7 +13,6 @@ class Test()
 
         // Console.WriteLine("Write Student Name :");
         // studentName = Console.ReadLine();
-
         // Console.WriteLine("Write Student Age :");
         // studentAge = Convert.ToInt32(Console.ReadLine());
 
@@ -23,15 +22,23 @@ class Test()
         // Console.WriteLine("Write Student Registration :");
         // isRegistered = Convert.ToBoolean(Console.ReadLine());
 
-        // Console.WriteLine("Student Name: " + studentName);
+        // Console.WriteLine("Student Name:"+ studentName);
         // Console.WriteLine("Student Age:" + studentAge);
         // Console.WriteLine("Student GPA:" + studentGpa);
         // Console.WriteLine("isRegistert:" + isRegistered);
 
-        int result = 25 + 65;
-        Console.WriteLine(result);
+        // int result = 265 + 165 + 230;
+        // Console.WriteLine(result);
 
-        Console.WriteLine(8 < 9 && 9 < 10);
+        //int name = 82 + 98;
+        //Console.WriteLine(name);
+
+        int x = 50;
+        int y = 150;
+        int z = x + y;
+        Console.WriteLine(z);
+
+
 
     }
 }
