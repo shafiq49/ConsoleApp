@@ -4,11 +4,7 @@ class Test()
 {
     public static void Main(string[] argd)
     {
-<<<<<<< HEAD
-        // Console.WriteLine("Please write Student Name :");
-=======
         //Console.WriteLine("Please write Student Name :");
->>>>>>> 7be5b0bc3c921a95833933cf9866f78139cf65a9
 
         // string? studentName;
         // int studentAge;
@@ -31,20 +27,18 @@ class Test()
         // Console.WriteLine("Student GPA:" + studentGpa);
         // Console.WriteLine("isRegistert:" + isRegistered);
 
-<<<<<<< HEAD
+
         // int result = 265 + 165 + 230;
         // Console.WriteLine(result);
 
         //int name = 82 + 98;
         //Console.WriteLine(name);
 
-        int x = 50;
-        int y = 150;
-        int z = x + y;
-        Console.WriteLine(z);
+        // int x = 50;
+        // int y = 150;
+        // int z = x + y;
+        // Console.WriteLine(z);
 
-
-=======
         // int result = 25 + 65;
         // Console.WriteLine(result);
 
@@ -73,11 +67,11 @@ class Test()
         //     Console.Write($"{i}, ");
         // }
 
-        for (int i = 100; i >= 1; i--)
+        for (int i = 20; i >= 1; i--)
         {
             Console.Write($"{i}, ");
         }
->>>>>>> 7be5b0bc3c921a95833933cf9866f78139cf65a9
+
 
     }
 }
