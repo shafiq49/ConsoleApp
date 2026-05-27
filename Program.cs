@@ -1,4 +1,5 @@
-﻿using System.Reflection.Metadata;
+﻿using FirstConsleApp;
+using System.Reflection.Metadata;
 
 class Test()
 {
@@ -67,11 +68,19 @@ class Test()
         //     Console.Write($"{i}, ");
         // }
 
-        for (int i = 20; i >= 1; i--)
+        // for (int i = 10; i >= 1; i--)
+        // {
+        //     Console.WriteLine($"{i}, ");
+        // }
+
+        Student Haque = new Student
         {
-            Console.Write($"{i}, ");
-        }
-
-
+            Name = "John Doe",
+            Age = 21,
+            Role = 12345
+        };
+        Console.WriteLine($"Student Name: {Haque.Name}");
+        Console.WriteLine($"Age: {Haque.Age}");
+        Console.WriteLine($"Role: {Haque.Role}");
     }
 }
